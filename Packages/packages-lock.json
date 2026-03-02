@@ -1,5 +1,20 @@
 {
   "dependencies": {
+    "com.uapp-toolkit.animations": {
+      "version": "https://github.com/vovkasu/uapp-toolkit-animations.git?path=Assets/PackageSrc#1.0.3",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1ca931fbc00dcc77f5fb4225b1339fbe4939010a"
+    },
+    "com.uapp-toolkit.page-navigation": {
+      "version": "file:com.uapp-toolkit.page-navigation",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.uapp-toolkit.animations": "1.0.3"
+      }
+    },
     "com.unity.2d.animation": {
       "version": "10.2.1",
       "depth": 1,

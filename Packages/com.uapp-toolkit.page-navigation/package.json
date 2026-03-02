@@ -1,0 +1,21 @@
+{
+  "name": "com.uapp-toolkit.page-navigation",
+  "version": "1.0.0",
+  "displayName": "Page Navigation",
+  "description": "A package for managing page navigation in Unity applications.",
+  "unity": "2021.3",
+  "license": "MIT",
+  "dependencies": {
+    "com.uapp-toolkit.animations": "1.0.3"
+  },
+  "keywords": [
+    "navigation",
+    "page",
+    "popup"
+  ],
+  "author": {
+    "name": "Surov Volodymyr",
+    "email": "vovkasu@gmail.com"
+  },
+  "samples": []  
+}  

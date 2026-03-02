@@ -1,0 +1,16 @@
+{
+    "name": "PageNavigation.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:272f7d869b4769a46915f05c40e20818"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

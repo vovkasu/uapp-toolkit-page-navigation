@@ -1,0 +1,16 @@
+{
+    "name": "PageNavigation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8a81e604ebc142647ab9091faff89b6f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
