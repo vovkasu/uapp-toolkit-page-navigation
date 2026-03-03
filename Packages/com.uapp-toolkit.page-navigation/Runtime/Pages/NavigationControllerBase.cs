@@ -19,6 +19,7 @@ namespace UAppToolKit.PageNavigation.Pages
         public static readonly List<IPageBaseLink> Pages = new List<IPageBaseLink>();
         public bool BackNavigationByEscape = true;
 
+        public abstract IEnumerator<float> Initialize(Scene applicationScene);
         public abstract IEnumerator<float> Initialize();
         public abstract PageBase ActivePage();
         public abstract void NavigateTo(IPageBaseLink nextPage, object newPageArgs);

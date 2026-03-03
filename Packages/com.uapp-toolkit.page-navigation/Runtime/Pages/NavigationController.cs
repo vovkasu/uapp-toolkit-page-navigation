@@ -26,7 +26,7 @@ namespace UAppToolKit.PageNavigation.Pages
 
         private event Action _onLoadedAction;
 
-        public IEnumerator<float> Initialize(Scene applicationScene)
+        public override IEnumerator<float> Initialize(Scene applicationScene)
         {
             _applicationScene = applicationScene;
             return Initialize();
