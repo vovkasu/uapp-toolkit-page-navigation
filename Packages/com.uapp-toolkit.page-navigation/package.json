@@ -1,6 +1,6 @@
 {
   "name": "com.uapp-toolkit.page-navigation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Page Navigation",
   "description": "A package for managing page navigation in Unity applications.",
   "unity": "2021.3",

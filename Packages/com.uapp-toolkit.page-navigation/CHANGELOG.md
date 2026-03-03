@@ -1,6 +1,14 @@
 Changelog
 =========
 
+[1.0.1] - 2026.03.03
+--------------------
+* **Added**
+    * Add NavigationController method Initialize(Scene applicationScene)
+* **Changed**
+    * Changed editor scripts assembly settings
+* **Fixed** -
+
 [1.0.0] - 2026.02.03
 --------------------
 * **Added**
